@@ -262,4 +262,4 @@ The model was trained on clean, isolated leaf images. The quality of your photo 
 
 ## License
 
-This project was developed as a Final Year Project. Add your preferred license here before making the repository public.
+You can contribute it will be appreciatable.
