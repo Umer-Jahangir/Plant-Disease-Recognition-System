@@ -1,5 +1,11 @@
-ÿþvenv/ 
-uploadimages/ 
-*.keras 
-*.h5 
-__pycache__/
+# Python
+venv/
+__pycache__/
+
+# Models
+models/*
+!models/.gitkeep
+
+# Uploads
+uploadimages/*
+!uploadimages/.gitkeep
